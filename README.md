@@ -12,9 +12,6 @@
 <a href="https://t.me/diegoicosta">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.hackerrank.com/diegoicosta">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/H4KX18qpW7giqwtdVc/giphy.gif" />
 
